@@ -1,4 +1,4 @@
-# ![Icon](./.bluemix/secure-lock-helm.png) Develop a Kubernetes app with Helm123
+# ![Icon](./.bluemix/secure-lock-helm.png) Develop a Kubernetes app with Helm123123123
 
 
 ### Continuously deliver a secure Docker app to a Kubernetes Cluster using a Helm Chart
